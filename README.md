@@ -1,4 +1,4 @@
-Second project for Israeli Techub - The Snake Game
+Project for Israeli Techub - The Snake Game
 
 Game description
 
